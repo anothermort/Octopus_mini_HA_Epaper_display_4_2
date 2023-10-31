@@ -2,7 +2,7 @@
 
 An epaper display showing Octopus Mini data available from Home Assistant using ESPhome
 
-The display is controlled by an ESP32, the display is a Waveshare 2.9" e-paper display
+The display is controlled by an ESP32, the display is a Waveshare 4.2" e-paper display
 
 **Requirements**
 
